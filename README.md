@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> The Seventh Exercise
 
-Example ===> Write A Program that Takes A Name From the User And Changes The first and last letter when printing the name
+Example ===> Write A Program That Takes A Name From the User And Changes The first and last letter when printing the name
 
 Description Of Files:
 
