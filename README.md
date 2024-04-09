@@ -4,7 +4,7 @@ Question Number ===> 7
 
 Programming Language ===> Python
 
-Program description ===> The Seventh Exercise
+Program Description ===> The Seventh Exercise
 
 Example ===> Write A Program That Takes A Name From The User And Changes The First And Last Letter When Printing The Name
 
